@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/corentinbringer/.dotnet/store/|arch|/|tfm|",
-      "/Users/corentinbringer/.nuget/packages"
+      "C:\\Users\\Shadow\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Shadow\\.nuget\\packages"
     ]
   }
 }

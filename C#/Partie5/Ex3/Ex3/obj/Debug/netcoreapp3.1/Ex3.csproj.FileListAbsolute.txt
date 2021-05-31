@@ -10,3 +10,15 @@
 /Users/corentinbringer/Documents/C#/Partie5/Ex3/Ex3/obj/Debug/netcoreapp3.1/Ex3.dll
 /Users/corentinbringer/Documents/C#/Partie5/Ex3/Ex3/obj/Debug/netcoreapp3.1/Ex3.pdb
 /Users/corentinbringer/Documents/C#/Partie5/Ex3/Ex3/obj/Debug/netcoreapp3.1/Ex3.genruntimeconfig.cache
+C:\Users\Shadow\Desktop\BRPI\C#\Partie5\Ex3\Ex3\bin\Debug\netcoreapp3.1\Ex3.exe
+C:\Users\Shadow\Desktop\BRPI\C#\Partie5\Ex3\Ex3\bin\Debug\netcoreapp3.1\Ex3.deps.json
+C:\Users\Shadow\Desktop\BRPI\C#\Partie5\Ex3\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.json
+C:\Users\Shadow\Desktop\BRPI\C#\Partie5\Ex3\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.dev.json
+C:\Users\Shadow\Desktop\BRPI\C#\Partie5\Ex3\Ex3\bin\Debug\netcoreapp3.1\Ex3.dll
+C:\Users\Shadow\Desktop\BRPI\C#\Partie5\Ex3\Ex3\bin\Debug\netcoreapp3.1\Ex3.pdb
+C:\Users\Shadow\Desktop\BRPI\C#\Partie5\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfoInputs.cache
+C:\Users\Shadow\Desktop\BRPI\C#\Partie5\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfo.cs
+C:\Users\Shadow\Desktop\BRPI\C#\Partie5\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\BRPI\C#\Partie5\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.dll
+C:\Users\Shadow\Desktop\BRPI\C#\Partie5\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.pdb
+C:\Users\Shadow\Desktop\BRPI\C#\Partie5\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.genruntimeconfig.cache
