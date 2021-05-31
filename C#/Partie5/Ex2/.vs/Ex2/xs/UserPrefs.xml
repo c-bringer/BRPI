@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{86AF70A2-C719-44ED-900E-6FAD9E2AF859}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex2/Program.cs">
+    <Files>
+      <File FileName="Ex2/Program.cs" Line="21" Column="88" />
+      <File FileName="Ex2/AgeTest.cs" Line="28" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ex2" expanded="True">
+            <Node name="Ex2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Ex2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

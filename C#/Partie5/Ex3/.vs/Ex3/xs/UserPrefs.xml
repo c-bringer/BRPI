@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{645ECC1C-6600-4462-91F0-088583CD5AA2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ex3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex3/ColorDisplay.cs">
+    <Files>
+      <File FileName="Ex3/Program.cs" Line="29" Column="89" />
+      <File FileName="Ex3/ColorDisplay.cs" Line="29" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ex3" expanded="True">
+            <Node name="Ex3" expanded="True">
+              <Node name="ColorDisplay.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

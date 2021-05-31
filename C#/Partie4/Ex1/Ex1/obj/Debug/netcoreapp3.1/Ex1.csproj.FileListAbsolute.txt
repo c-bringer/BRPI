@@ -1,0 +1,12 @@
+/Users/corentinbringer/Documents/C#/Partie4/Ex1/Ex1/bin/Debug/netcoreapp3.1/Ex1.deps.json
+/Users/corentinbringer/Documents/C#/Partie4/Ex1/Ex1/bin/Debug/netcoreapp3.1/Ex1.runtimeconfig.json
+/Users/corentinbringer/Documents/C#/Partie4/Ex1/Ex1/bin/Debug/netcoreapp3.1/Ex1.runtimeconfig.dev.json
+/Users/corentinbringer/Documents/C#/Partie4/Ex1/Ex1/bin/Debug/netcoreapp3.1/Ex1.dll
+/Users/corentinbringer/Documents/C#/Partie4/Ex1/Ex1/bin/Debug/netcoreapp3.1/Ex1.pdb
+/Users/corentinbringer/Documents/C#/Partie4/Ex1/Ex1/obj/Debug/netcoreapp3.1/Ex1.csprojAssemblyReference.cache
+/Users/corentinbringer/Documents/C#/Partie4/Ex1/Ex1/obj/Debug/netcoreapp3.1/Ex1.AssemblyInfoInputs.cache
+/Users/corentinbringer/Documents/C#/Partie4/Ex1/Ex1/obj/Debug/netcoreapp3.1/Ex1.AssemblyInfo.cs
+/Users/corentinbringer/Documents/C#/Partie4/Ex1/Ex1/obj/Debug/netcoreapp3.1/Ex1.csproj.CoreCompileInputs.cache
+/Users/corentinbringer/Documents/C#/Partie4/Ex1/Ex1/obj/Debug/netcoreapp3.1/Ex1.dll
+/Users/corentinbringer/Documents/C#/Partie4/Ex1/Ex1/obj/Debug/netcoreapp3.1/Ex1.pdb
+/Users/corentinbringer/Documents/C#/Partie4/Ex1/Ex1/obj/Debug/netcoreapp3.1/Ex1.genruntimeconfig.cache
