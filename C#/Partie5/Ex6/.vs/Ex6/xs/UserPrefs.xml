@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{D479BFB9-3145-4BA4-8F88-5F2DB5226429}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Ex6/Program.cs">
     <Files>
-      <File FileName="Ex6/Program.cs" Line="1" Column="1" />
+      <File FileName="Ex6/Program.cs" Line="16" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Ex6 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex6 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

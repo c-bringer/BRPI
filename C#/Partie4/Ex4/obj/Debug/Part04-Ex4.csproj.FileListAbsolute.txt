@@ -1,0 +1,6 @@
+S:\SVN\Projet\C#\Projects\Part04\Part04-Ex4\bin\Debug\Part04-Ex4.exe.config
+S:\SVN\Projet\C#\Projects\Part04\Part04-Ex4\bin\Debug\Part04-Ex4.exe
+S:\SVN\Projet\C#\Projects\Part04\Part04-Ex4\bin\Debug\Part04-Ex4.pdb
+S:\SVN\Projet\C#\Projects\Part04\Part04-Ex4\obj\Debug\Part04-Ex4.exe
+S:\SVN\Projet\C#\Projects\Part04\Part04-Ex4\obj\Debug\Part04-Ex4.pdb
+S:\SVN\Projet\C#\Projects\Part04\Part04-Ex4\obj\Debug\Part04-Ex4.csprojResolveAssemblyReference.cache

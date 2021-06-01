@@ -1,0 +1,12 @@
+/Users/corentinbringer/Documents/DEV BRPI/C#/Partie6/Ex2/Ex2/bin/Debug/netcoreapp3.1/Ex2.deps.json
+/Users/corentinbringer/Documents/DEV BRPI/C#/Partie6/Ex2/Ex2/bin/Debug/netcoreapp3.1/Ex2.runtimeconfig.json
+/Users/corentinbringer/Documents/DEV BRPI/C#/Partie6/Ex2/Ex2/bin/Debug/netcoreapp3.1/Ex2.runtimeconfig.dev.json
+/Users/corentinbringer/Documents/DEV BRPI/C#/Partie6/Ex2/Ex2/bin/Debug/netcoreapp3.1/Ex2.dll
+/Users/corentinbringer/Documents/DEV BRPI/C#/Partie6/Ex2/Ex2/bin/Debug/netcoreapp3.1/Ex2.pdb
+/Users/corentinbringer/Documents/DEV BRPI/C#/Partie6/Ex2/Ex2/obj/Debug/netcoreapp3.1/Ex2.csprojAssemblyReference.cache
+/Users/corentinbringer/Documents/DEV BRPI/C#/Partie6/Ex2/Ex2/obj/Debug/netcoreapp3.1/Ex2.AssemblyInfoInputs.cache
+/Users/corentinbringer/Documents/DEV BRPI/C#/Partie6/Ex2/Ex2/obj/Debug/netcoreapp3.1/Ex2.AssemblyInfo.cs
+/Users/corentinbringer/Documents/DEV BRPI/C#/Partie6/Ex2/Ex2/obj/Debug/netcoreapp3.1/Ex2.csproj.CoreCompileInputs.cache
+/Users/corentinbringer/Documents/DEV BRPI/C#/Partie6/Ex2/Ex2/obj/Debug/netcoreapp3.1/Ex2.dll
+/Users/corentinbringer/Documents/DEV BRPI/C#/Partie6/Ex2/Ex2/obj/Debug/netcoreapp3.1/Ex2.pdb
+/Users/corentinbringer/Documents/DEV BRPI/C#/Partie6/Ex2/Ex2/obj/Debug/netcoreapp3.1/Ex2.genruntimeconfig.cache
