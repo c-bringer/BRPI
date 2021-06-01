@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/corentinbringer/Documents/DEV BRPI/C#/Partie5/Ex3/Ex3/Ex3.csproj",
-      "projectName": "Ex3",
-      "projectPath": "/Users/corentinbringer/Documents/DEV BRPI/C#/Partie5/Ex3/Ex3/Ex3.csproj",
+      "projectUniqueName": "/Users/corentinbringer/Documents/DEV BRPI/C#/Partie5/Ex6/Ex6/Ex6.csproj",
+      "projectName": "Ex6",
+      "projectPath": "/Users/corentinbringer/Documents/DEV BRPI/C#/Partie5/Ex6/Ex6/Ex6.csproj",
       "packagesPath": "/Users/corentinbringer/.nuget/packages/",
-      "outputPath": "/Users/corentinbringer/Documents/DEV BRPI/C#/Partie5/Ex3/Ex3/obj/",
+      "outputPath": "/Users/corentinbringer/Documents/DEV BRPI/C#/Partie5/Ex6/Ex6/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/corentinbringer/.config/NuGet/NuGet.Config"
