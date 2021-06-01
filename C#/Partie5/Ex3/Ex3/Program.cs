@@ -8,7 +8,6 @@ namespace Ex3
         {
             ColorDisplay colorDisplay = new ColorDisplay();
             //colorDisplay.hWorld();
-
             colorDisplay.hFlag();
 
 

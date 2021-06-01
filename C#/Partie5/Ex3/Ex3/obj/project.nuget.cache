@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "yPCgxNmxx3qf+NRFu6eh1JOG7EawADludEjzhbAOxdjLeMeGahTbi55DBO3CB9E41xHDoln2qJiwSQKILnG5bA==",
   "success": true,
   "projectFilePath": "/Users/corentinbringer/Documents/DEV BRPI/C#/Partie5/Ex3/Ex3/Ex3.csproj",
+=======
+  "dgSpecHash": "C+Iolz+6Up+3FzuHcU9sO/ADdCrMJfXeUPtGhfkVm8wVg8O4uDZ0W/OUkNgIFXT6NRQVVOEto8MdlgUZiWg2GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shadow\\Desktop\\BRPI\\C#\\Partie5\\Ex3\\Ex3\\Ex3.csproj",
+>>>>>>> 5caa716efd2aebbbd3495800e1c66f704f0630a7
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -19,7 +19,7 @@ namespace Ex3
 
             for (int i = 0; i < width; i++)
             {
-                for (int j = 0; j < height; i++)
+                for (int j = 0; j < height; j++)
                 {
                     Console.Write("Hello World !!");
                 }
@@ -54,7 +54,7 @@ namespace Ex3
 
             for (int i = 0; i < width; i++)
             {
-                for (int j = 0; j < height; i++)
+                for (int j = 0; j < height; j++)
                 {
                     Console.Write("{0}", words);
                 }
@@ -69,9 +69,27 @@ namespace Ex3
 
             for (int i = 0; i < width; i++)
             {
-                for (int j = 0; j < height / 3; i++)
+                for (int j = 0; j < height/3; j++)
                 {
                     Console.BackgroundColor = ConsoleColor.Blue;
+                    Console.Write(" ");
+                }
+            }
+
+            for (int i = 0; i < width; i++)
+            {
+                for (int j = 0; j < height / 3; j++)
+                {
+                    Console.BackgroundColor = ConsoleColor.Red;
+                    Console.Write(" ");
+                }
+            }
+
+            for (int i = 0; i < width; i++)
+            {
+                for (int j = 0; j < height / 3; j++)
+                {
+                    Console.BackgroundColor = ConsoleColor.White;
                     Console.Write(" ");
                 }
             }
