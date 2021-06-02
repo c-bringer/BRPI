@@ -1,0 +1,15 @@
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.AssemblyReference.cache
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\obj\Debug\netcoreapp3.1\Ex1.Form1.resources
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.GenerateResource.cache
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfoInputs.cache
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfo.cs
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\bin\Debug\netcoreapp3.1\Ex1.exe
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\bin\Debug\netcoreapp3.1\Ex1.deps.json
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.json
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.dev.json
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\bin\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\bin\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\coren\Documents\BRPI\C#\Partie9\Ex1\Ex1\obj\Debug\netcoreapp3.1\Ex1.genruntimeconfig.cache
